@@ -1,1 +1,1 @@
-author2 modifies the file
+author1 modifies the file again and will merge it into master after there was one more commit
