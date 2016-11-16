@@ -1,1 +1,2 @@
 created in master meanwhile!
+author1 modifies the file again and will merge it into master after there was one more commit
